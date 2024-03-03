@@ -1,0 +1,8 @@
+{
+  "domain": "custom_telnet_light",
+  "name": "Custom Telnet Light",
+  "codeowners": [],
+  "documentation": "",
+  "iot_class": "local_polling",
+  "requirements": []
+}
